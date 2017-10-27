@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.android/build-cache/617b105fcf00fb51cc41189ada5e2ed2c2422c40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/classes_c05121083fcf9090b6db8d647b516880240c92da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.android/build-cache/e49631b48eb34c45bfb64d6166275925c19a3a9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/classes_b03450ada04b1ccd04330ca66c1d1e52c33f6f44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.android/build-cache/9b86476af9c0941f8db2286607928cc15cfaa733/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/classes_89ef71861d667d864b8dd3dea83dffe1130f31a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.android/build-cache/f9559b8a046ba9210cee9911fece6dbb7da47999/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/classes_7352017219cef5043f69a0f1157a6ddf46640b51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.android/build-cache/d45169259c99ed677bab023868709d9ea71c3214/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/classes_7356f68d5788ec167eaca42bb2f422f9aab0e844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.51/e34fe80c9714240525f665113dd3749415515655/kotlin-stdlib-1.1.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e34fe80c9714240525f665113dd3749415515655">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-1.1.51_9587b946ae60301f0bdbccfe17e467f870027ba6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.android/build-cache/c25afeb968f79819579edd235e868c05bb98fe52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/classes_1d8fcd555fb5a4d7f280e88a07e64043e7115a68.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_a47c058dbaee4d554097be798a55106c2a306bdb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/annotations-13.0_abd3da89843fd3f0568d1b8dfe6bce405e75af9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.51/8b5933578dc55f32cfc1a25f1db6371e4161fb8f/kotlin-stdlib-jre7-1.1.51.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8b5933578dc55f32cfc1a25f1db6371e4161fb8f">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/kotlin-stdlib-jre7-1.1.51_178e39f75064ab79679c1c0f5ab9117bbd6f5130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.android/build-cache/56d9f8fc66ce01a53b07ee58831cbfd4931c6a3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/classes_676d0d0f1007a64051da71ef8527b37f7e38fbfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.android/build-cache/c0415d4ac0379931c402cc4921badd4e08f5d60c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/classes_53062a666afcb8a556e54223dd40f7064a46455f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.android/build-cache/2e0b427861a7d243f34aefb9930585b47e1c1003/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/classes_f41a3036b03a961a2891f477e1b62ba293dda2d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/.android/build-cache/bf3ed34e362343f7ce23fe11e9618b1e2434210f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/classes_0c0ad2d3bff73a374f9d6853faaadb088783acc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasuga hideyuki/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/work/kotlin_app/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_98de94e8aa82f32b25f29f64ff989e0d12aff1ea.jar" />
+    </item>
+
+</items>
